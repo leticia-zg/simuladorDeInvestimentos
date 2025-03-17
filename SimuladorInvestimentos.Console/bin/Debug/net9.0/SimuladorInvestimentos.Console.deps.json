@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SimuladorInvestimentos.Console/1.0.0": {
+        "dependencies": {
+          "SimuladorInvestimentos.Lib": "1.0.0"
+        },
+        "runtime": {
+          "SimuladorInvestimentos.Console.dll": {}
+        }
+      },
+      "SimuladorInvestimentos.Lib/1.0.0": {
+        "runtime": {
+          "SimuladorInvestimentos.Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimuladorInvestimentos.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimuladorInvestimentos.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

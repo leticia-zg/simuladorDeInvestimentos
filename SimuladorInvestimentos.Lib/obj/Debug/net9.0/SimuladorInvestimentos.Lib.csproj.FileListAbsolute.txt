@@ -1,0 +1,12 @@
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\bin\Debug\net9.0\SimuladorInvestimentos.Lib.deps.json
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\bin\Debug\net9.0\SimuladorInvestimentos.Lib.dll
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\bin\Debug\net9.0\SimuladorInvestimentos.Lib.pdb
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\SimuladorInvestimentos.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\SimuladorInvestimentos.Lib.AssemblyInfoInputs.cache
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\SimuladorInvestimentos.Lib.AssemblyInfo.cs
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\SimuladorInvestimentos.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\SimuladorInvestimentos.Lib.sourcelink.json
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\SimuladorInvestimentos.Lib.dll
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\refint\SimuladorInvestimentos.Lib.dll
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\SimuladorInvestimentos.Lib.pdb
+C:\Users\Evandro\Source\Repos\simuladorDeInvestimento\SimuladorInvestimentos.Lib\obj\Debug\net9.0\ref\SimuladorInvestimentos.Lib.dll

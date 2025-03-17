@@ -1,0 +1,16 @@
+# Ignore o diretório obj
+obj/
+
+# Ignore o diretório bin
+bin/
+
+# Ignore arquivos gerados pela solução .NET
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Outros arquivos temporários do Visual Studio
+.vs/
+.vscode/
+.idea/

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SimuladorInvestimentos.Lib/1.0.0": {
+        "runtime": {
+          "SimuladorInvestimentos.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimuladorInvestimentos.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
